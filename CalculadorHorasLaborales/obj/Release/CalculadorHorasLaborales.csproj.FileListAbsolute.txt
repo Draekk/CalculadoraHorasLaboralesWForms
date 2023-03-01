@@ -1,0 +1,11 @@
+C:\Users\Drakkseid\Documents\Programacion\Proyectos\C#\CalculadorHorasLaborales\CalculadorHorasLaborales\bin\Release\CalculadorHorasLaborales.exe.config
+C:\Users\Drakkseid\Documents\Programacion\Proyectos\C#\CalculadorHorasLaborales\CalculadorHorasLaborales\bin\Release\CalculadorHorasLaborales.exe
+C:\Users\Drakkseid\Documents\Programacion\Proyectos\C#\CalculadorHorasLaborales\CalculadorHorasLaborales\bin\Release\CalculadorHorasLaborales.pdb
+C:\Users\Drakkseid\Documents\Programacion\Proyectos\C#\CalculadorHorasLaborales\CalculadorHorasLaborales\obj\Release\CalculadorHorasLaborales.csproj.AssemblyReference.cache
+C:\Users\Drakkseid\Documents\Programacion\Proyectos\C#\CalculadorHorasLaborales\CalculadorHorasLaborales\obj\Release\CalculadorHorasLaborales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Drakkseid\Documents\Programacion\Proyectos\C#\CalculadorHorasLaborales\CalculadorHorasLaborales\obj\Release\CalculadorHorasLaborales.iPrincipal.resources
+C:\Users\Drakkseid\Documents\Programacion\Proyectos\C#\CalculadorHorasLaborales\CalculadorHorasLaborales\obj\Release\CalculadorHorasLaborales.Properties.Resources.resources
+C:\Users\Drakkseid\Documents\Programacion\Proyectos\C#\CalculadorHorasLaborales\CalculadorHorasLaborales\obj\Release\CalculadorHorasLaborales.csproj.GenerateResource.cache
+C:\Users\Drakkseid\Documents\Programacion\Proyectos\C#\CalculadorHorasLaborales\CalculadorHorasLaborales\obj\Release\CalculadorHorasLaborales.csproj.CoreCompileInputs.cache
+C:\Users\Drakkseid\Documents\Programacion\Proyectos\C#\CalculadorHorasLaborales\CalculadorHorasLaborales\obj\Release\CalculadorHorasLaborales.exe
+C:\Users\Drakkseid\Documents\Programacion\Proyectos\C#\CalculadorHorasLaborales\CalculadorHorasLaborales\obj\Release\CalculadorHorasLaborales.pdb
