@@ -1,5 +1,5 @@
 # CalculadoraHorasLaboralesWForms
-CALCULADOR DE HORAS LABORALES by DrakkCorp
+CALCULADOR DE HORAS LABORALES by Draekk
 ==========================================
 Calculadora de horas laborales por cantidad de dias, realizado con Windows Forms
 
