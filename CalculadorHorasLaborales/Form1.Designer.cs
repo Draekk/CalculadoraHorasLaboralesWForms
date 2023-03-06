@@ -89,6 +89,7 @@
             // 
             this.txtCantidadDias.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCantidadDias.Location = new System.Drawing.Point(220, 30);
+            this.txtCantidadDias.MaxLength = 2;
             this.txtCantidadDias.Name = "txtCantidadDias";
             this.txtCantidadDias.Size = new System.Drawing.Size(40, 38);
             this.txtCantidadDias.TabIndex = 2;
@@ -155,7 +156,7 @@
             // 
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Lime;
-            this.label5.Location = new System.Drawing.Point(60, 147);
+            this.label5.Location = new System.Drawing.Point(55, 147);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(170, 43);
             this.label5.TabIndex = 9;
@@ -214,7 +215,7 @@
             // 
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.Honeydew;
-            this.label9.Location = new System.Drawing.Point(49, 82);
+            this.label9.Location = new System.Drawing.Point(48, 82);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(176, 34);
             this.label9.TabIndex = 17;
@@ -238,7 +239,7 @@
             // 
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.Honeydew;
-            this.label8.Location = new System.Drawing.Point(66, 113);
+            this.label8.Location = new System.Drawing.Point(65, 113);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(159, 34);
             this.label8.TabIndex = 15;
@@ -251,7 +252,7 @@
             this.lblResultado.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblResultado.ForeColor = System.Drawing.Color.Lime;
-            this.lblResultado.Location = new System.Drawing.Point(227, 153);
+            this.lblResultado.Location = new System.Drawing.Point(222, 153);
             this.lblResultado.Name = "lblResultado";
             this.lblResultado.ReadOnly = true;
             this.lblResultado.Size = new System.Drawing.Size(89, 31);
@@ -264,7 +265,6 @@
             this.mstConfig});
             this.mstPrincipal.Location = new System.Drawing.Point(0, 0);
             this.mstPrincipal.Name = "mstPrincipal";
-            this.mstPrincipal.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.mstPrincipal.Size = new System.Drawing.Size(375, 24);
             this.mstPrincipal.TabIndex = 12;
             this.mstPrincipal.Text = "menuStrip1";
@@ -282,7 +282,7 @@
             // horasExtrasToolStripMenuItem
             // 
             this.horasExtrasToolStripMenuItem.Name = "horasExtrasToolStripMenuItem";
-            this.horasExtrasToolStripMenuItem.Size = new System.Drawing.Size(139, 22);
+            this.horasExtrasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.horasExtrasToolStripMenuItem.Text = "Horas Extras";
             this.horasExtrasToolStripMenuItem.Click += new System.EventHandler(this.horasExtrasToolStripMenuItem_Click);
             // 
@@ -304,6 +304,7 @@
             // 
             this.txtHorasPorDia.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtHorasPorDia.Location = new System.Drawing.Point(167, 15);
+            this.txtHorasPorDia.MaxLength = 2;
             this.txtHorasPorDia.Name = "txtHorasPorDia";
             this.txtHorasPorDia.Size = new System.Drawing.Size(32, 32);
             this.txtHorasPorDia.TabIndex = 0;

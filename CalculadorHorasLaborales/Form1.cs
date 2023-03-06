@@ -58,6 +58,7 @@ namespace CalculadorHorasLaborales
                     totalHorasLaborales = new TimeSpan(((int)resultadoTS.TotalHours - horasExtras), resultadoTS.Minutes, 0);
                     lblHorasLaborales.Text = $"{((int)totalHorasLaborales.TotalHours).ToString("00")}:{resultadoTS.Minutes.ToString("00")}";
                     lblHorasExtras.Text = $"{((int)totalHorasExtras.TotalHours).ToString("00")}:{totalHorasExtras.Minutes.ToString("00")}";
+                    lblResultado.Text = $"{((int)resultadoTS.TotalHours).ToString("00")}:{resultadoTS.Minutes.ToString("00")}";
                 }
                 else
                 {
