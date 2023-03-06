@@ -13,3 +13,8 @@ Calculadora de horas laborales por cantidad de dias, realizado con Windows Forms
 
 ## Novedades versión 1.0.2:
 - Arreglos menores.
+
+## Novedades versión 1.0.3:
+- Cambios en la interfaz:
+  - Posicionamiento del botón "Config".
+- Arreglos menores.
